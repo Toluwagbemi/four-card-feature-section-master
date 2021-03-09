@@ -1,0 +1,65 @@
+body{
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+}
+h1{
+  font-weight: 200;
+  width: 80%;
+  margin-left: 5%;
+}
+h2{
+margin-left: 5%;
+}
+p{
+color: hsl(234, 12%, 34%);
+margin-left: 5%;
+line-height: 2;
+}
+.one{
+ margin-top: 5%;
+ margin-left: 33%;
+ width: 36%;
+ text-align: center;
+}
+.super{
+  width: 25%;
+  position: absolute;
+  background-color: hsl(0, 0%, 98%);
+  margin-left: 11%;
+  margin-top: 13%;
+  border-radius: 2%;
+  border-top: solid  hsl(180, 62%, 55%);
+
+}
+.team{
+  width: 25%;
+  position: absolute;
+  margin-left: 38%;
+  background-color: hsl(0, 0%, 98%);
+  border-radius: 2%;
+  margin-top: 4%;
+  border-top: solid hsl(0, 78%, 62%);
+}
+.karma{
+  width: 25%;
+  position: absolute;
+  margin-left: 38%;
+  margin-top: 22%;
+  background-color: hsl(0, 0%, 98%);
+  border-radius: 2%;
+  border-top: solid hsl(34, 97%, 64%);
+}
+.calc{
+  width: 25%;
+  position: absolute;
+  margin-left: 65%;
+  background-color: hsl(0, 0%, 98%);
+  margin-top: 14%;
+  border-radius: 2%;
+  border-top: solid hsl(212, 86%, 64%);
+}
+
+.icons{
+  margin-left: 75%;
+  padding-bottom: 5%;
+}
